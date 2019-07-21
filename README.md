@@ -2,7 +2,7 @@
 
 I deployed a Heroku app to directly link my portfolio. Since Heroku doesn't support straight HTML, JavaScript, and CSS files, I was able to trick Heroku into thinking it was a PHP file (which Heroku supports). I added a compsoer.json and index.php file with minimal code. 
 
-[Click Here to View My Portfolio](https://myportfolio777.herokuapp.com/)
+[Click Here to View My Portfolio](https://classportfolio777.herokuapp.com/)
 
 
 ### Explained
