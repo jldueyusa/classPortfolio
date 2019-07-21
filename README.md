@@ -14,7 +14,7 @@ I deployed a Heroku app to directly link my portfolio. Since Heroku doesn't supp
 
 2. At the bottom of the page the user can click on any one of the links to deploy the desired app.
 
-![portfolio2](https://github.com/jldueyusa/portfolio/blob/master/assets/images/projects.png)
+![portfolio2](https://github.com/jldueyusa/classPortfolio/blob/master/assets/images/projects.png)
 
 # Tools and Applications
 - JavaScript
