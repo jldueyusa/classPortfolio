@@ -12,7 +12,7 @@ I deployed a Heroku app to directly link my portfolio. Since Heroku doesn't supp
 ![aboutMe1](https://github.com/jldueyusa/classPortfolio/blob/master/assets/images/aboutme%20copy.png)
 
 
-2. At the bottom of the page the user can click on any one of the links to deploy the desired app.
+2. At the bottom of the page the user can click on any one of the links to deploy the desired app. This section will continue to change as we complete more projects.
 
 ![portfolio2](https://github.com/jldueyusa/classPortfolio/blob/master/assets/images/projects.png)
 
